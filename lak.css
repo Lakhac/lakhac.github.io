@@ -3,6 +3,13 @@ body {
     font-family: 'itim', cursive;
     color:white;
 }
+
+.alll{
+    border:blue 2px solid ;
+    width:90%;
+    padding:10px;
+    margin:10px;
+}
 p{
     font-size:20px;
 }
