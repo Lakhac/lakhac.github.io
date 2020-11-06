@@ -1,0 +1,84 @@
+body {
+    background-color:black;
+    font-family: 'itim', cursive;
+    color:white;
+}
+p{
+    font-size:20px;
+}
+h2{
+    border:white 2px dashed;
+    margin:auto;
+    width:50%;
+    text-align:center ;
+    margin-top:10%;
+}
+#prog li{
+    
+    padding:10px;
+    
+}
+.hel{
+
+    background-color:black;
+    text-decoration:none;
+    color:white;
+    border:yellow 2px solid;
+    font-size:20px;
+    padding:1%;
+}
+.hel:hover{
+    background-color:grey;
+}
+#h1{
+    color:white;
+    font-family:anton;
+    display:block;
+    margin:auto;
+    width:50%;
+    border:blue 5px dashed ;
+   
+
+}
+#nav li{
+    float:left;
+    list-style:none;
+    margin:10px 1px;
+}
+.all{
+    margin-top:5%;
+    padding:5px;
+    
+}
+#nav ul{
+    overflow:auto;
+}
+#nav{
+    background-color:rgb(39, 43, 51);
+}
+#nav li a{
+    text-decoration:none;
+    padding:8px;
+    color:white;
+}
+#us{
+
+    font-size:30px;
+    margin-top:20%;
+    display:block;
+    
+
+}
+#first{
+    color:white;
+}
+
+}
+#t{
+    color:white;
+}
+#img{
+    border:white 2px solid ;
+    border-radius:10px;
+    margin-right:30%;
+}
